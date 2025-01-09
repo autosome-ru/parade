@@ -16,9 +16,9 @@ mRNA delivery offers new opportunities for disease treatment by directing cells 
 
 The approach presented in PARADE requires only a regular PC with enough RAM to perform the operations defined by a user. To satisfy the minimal requirements and use the basic functions of PARADE (i.e. sequence activity prediction), only a computer with only about 4 GiB of RAM is necessary. However, if you would like to use PARADE generator, the generation results may depend on the number of sequences tested, therefore we recommend a computer with the following specs for optimal performance:
 
-RAM: 16+ GiB  
-CPU: 8+ threads, 3.3+ GHz/core
-GPU: 
+* RAM: 16+ GiB
+* CPU: 8+ threads, 3.3+ GHz/core
+* GPU: CUDA v. 11.8+, 8+ GiB RAM
 
 ## OS Requirements
 
